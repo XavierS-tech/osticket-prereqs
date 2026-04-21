@@ -58,7 +58,18 @@ Password: root
 
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Open IIS as an Admin
+
+Register PHP from within IIS (PHP Manager -> C:\PHP\php-cgi.exe)
+
+Reload IIS (Open IIS, Stop and Start the server)
+
+Install osTicket v1.15.8
+From the “osTicket-Installation-Files” folder, unzip “osTicket-v1.15.8.zip” and copy the “upload” folder into “c:\inetpub\wwwroot”
+Within “c:\inetpub\wwwroot”, Rename “upload” to “osTicket”
+
+Reload IIS (Open IIS, Stop and Start the server)
+
 </p>
 <br />
 
