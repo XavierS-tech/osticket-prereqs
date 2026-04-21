@@ -34,7 +34,8 @@ World Wide Web Services -> Application Development Features -> [X] CGI
 <h2>Installation Steps</h2>
 
 <p>
-<<img width="1475" height="802" alt="image" src="https://github.com/user-attachments/assets/24f46a15-5873-4cf3-9f64-2c6cb2431270" />
+<<img width="742" height="647" alt="image" src="https://github.com/user-attachments/assets/9c2f00cc-09b3-4845-972f-19fb8f66fad9" />
+
 
 </p>
 <p>
